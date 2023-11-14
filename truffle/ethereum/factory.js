@@ -1,3 +1,4 @@
+//using local network ganache
 import web3 from './web3';
 import CampaignFactory from '../build/contracts/CampaignFactory.json'
 
